@@ -13,7 +13,7 @@ const SUGGESTIONS = [
 const STAT_PILLS = [
   { label: '5,000', sub: 'transactions' },
   { label: '6',     sub: 'zones'        },
-  { label: '~8%',   sub: 'decline rate' },
+  { label: '11.8%', sub: 'decline rate' },
   { label: 'live',  sub: 'feed', live: true },
 ]
 
